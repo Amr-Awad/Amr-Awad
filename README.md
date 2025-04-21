@@ -37,12 +37,12 @@
 ---
 
 ## Skill Set:
-<table width="150%"><tr width=100%>
 
 ### Development
+<table><tr>
 <td valign="top" width="25%">
 <div align="center">  
-
+  
 #### Programming Languages  
 <img src="https://skillicons.dev/icons?i=java,python,javascript" /> 
 </div>
@@ -78,9 +78,9 @@
 </table>
 
 
-<table width="100%"><tr>
-  
 ### DevOps
+<table><tr>
+  
 <td valign="top" width="20%">
 <div align="center">  
 
