@@ -8,8 +8,8 @@
 ---
 
 ## 🧾 My CVs
-[![DevOps CV](https://img.shields.io/badge/-DevOps_CV-blue?style=for-the-badge)](./Amr%20Mourad%20DevOps%20CV.pdf)
-[![Java Developer CV](https://img.shields.io/badge/-Java_Developer_CV-green?style=for-the-badge)](./Amr%20Mourad&20Java%20CV.pdf)
+[![DevOps CV](https://img.shields.io/badge/-DevOps_CV-blue?style=for-the-badge)](./Amr_Mourad_DevOps_CV.pdf)
+[![Java Developer CV](https://img.shields.io/badge/-Java_Developer_CV-green?style=for-the-badge)](./Amr_Mourad_Java_CV.pdf)
 
 ---
 
